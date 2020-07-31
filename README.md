@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## manga-logger
 
-Things you may want to cover:
+### 概要
 
-* Ruby version
+「あの漫画どこまで読んだか覚えていない」を解決する漫画アプリです。
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
